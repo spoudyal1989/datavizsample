@@ -1,4 +1,4 @@
-# Complaints of Water Leakage in NYC Residential Buildings
+# Water Leaks in NYC Residential Buildings
 
 ## Introduction
 
@@ -6,4 +6,5 @@ Every day, New York City residents call 311 to record complaints about infrastru
 
 Complaints of water leakage are routed to the Department of Housing Preservation and Development. If a pattern of these complaints exists—and can be demonstrated—the department can use the knowledge to direct resources to resolve the issue efficiently and effectively. 
 
+## 311 Service Requests for Water Leaks in NYC Residential Buildings in 2011
 {% include plot1.html %}
