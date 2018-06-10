@@ -1,6 +1,6 @@
 ## This blog is a collection of projects designed for a summer course in data visualization at the CUNY Graduate Center.
 
-# [How I Write 'Thank You'](./blogpost2.md)
+# [How I <strike>Say</s>Write 'Thank You'](./blogpost2.md)
 
 TK
 
