@@ -1,4 +1,4 @@
-# How I Write Thank You
+# How I <strike>Say</strike> Write Thank You
 #### Introduction
 TK
 
