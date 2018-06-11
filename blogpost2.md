@@ -10,11 +10,9 @@ As I was flipping through a copy of <i>Dear Data</i> in class last week, I came 
 
 So my question was: How do I express my gratitude in my email responses? Which expressions do I use, how frequently do I use each expression, do I place the expressions in one place in my email more than in others, and do I use these expressions more for certain people? 
 
-### Data
+### Data and Findings
 
 I looked at emails from the past month (May 2018) in the Sent folder in my work Outlook to gather data for this visualization. I searched the Sent folder only because I rarely write <i>thank you</i> or its variations in an email that I start. And I limited the scope to one month only because of the number of the emails I had to search in (approximately 300). 
-
-### Findings
 
 I found that I have three main ways of expressing gratitude in my email responses: <i>thanks</i>, <i>thank you</i>, and—my special one—<i>many thanks</i>. Only in one email had I used <i>my thanks</i>. Another finding was that out of the 300-odd emails, I had used one of the three expressions in 99 emails. No expression had been used more than once in any email. 
 
@@ -23,6 +21,10 @@ However, I did not distribute my expressions of gratitude equally across recipie
 The findings are presented in the visualization below.
 
 ### All the Thank-Yous in All My Emails
+
+The visualization dashboard below attempts to answer the various questions I raised above. Because the total number of emails is ninety-nine, the numeral frequency of each measure also approximates the proportion (in percentage) of each measure.
+
+The topmost bar chart shows how many times I used each of the three expressions in my emails. The pie charts shows whom among my superiors and peers I write more expressions of gratitude to. The adjacent bar chart shows where in my emails particular appear the most. The last bar chart compares the frequency of the expressions and their position in my emails to my superiors and peers.
 
 {% include plot2.html %}
 
