@@ -18,7 +18,7 @@ I found that I had three main ways of expressing gratitude in my email responses
 
 However, I did not distribute my expressions of gratitude equally across recipients or even within emails. I was more thankful to my superiors (mostly because I was responding to feedback rather than providing information, as would be the case with peers). And I opened or ended an email with an expression more than I used an expression in the body of the email.
 
-<b>I had not used as many <i>many thanks</i> as I suspected (my guess was around half the time). But I had used the expression more when writing to peers than to superiors, which I thought would have been the case. My speech may be converging but probably not to the extent that it would appear to be mimickry.</b>
+<b>I had not used as many <i>many thanks</i> as I suspected (my guess was around half the time). But I had used the expression more when writing to peers than to superiors, which I thought would have been the case. I may be converging but not mimicking, just yet.</b>
 
 The findings are presented in the visualization below.
 
