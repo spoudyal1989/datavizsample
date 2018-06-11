@@ -24,9 +24,10 @@ The findings are presented in the visualization below.
 
 The visualization dashboard below attempts to answer the various questions I raised above. Because the total number of emails is ninety-nine, the numeral frequency of each measure also approximates the proportion (in percentage) of each measure.
 
-The topmost bar chart shows how many times I used each of the three expressions in my emails. The pie charts shows whom among my superiors and peers I write more expressions of gratitude to. The adjacent bar chart shows where in my emails particular appear the most. The last bar chart compares the frequency of the expressions and their position in my emails to my superiors and peers.
+The topmost bar chart shows how many times I used each of the three expressions in my emails. The pie charts shows whom among my superiors and peers I write more expressions of gratitude to. The adjacent bar chart shows where in my emails particular appear the most. The last bar chart compares the frequency of the expressions and their position in my emails to my superiors and peers. Depending on the platform on which they are viewing the dashboard below (computer, tablet, or phone), users may need to scroll through the dashboard to fully view the final bar chart.
 
 {% include plot2.html %}
 
 ### Room for Improvement
 
+I would 
