@@ -12,6 +12,13 @@ So my question was: How do I express my gratitude in my email responses? Which e
 
 ### Data
 
-I looked at emails from the past month (May 2018) in the Sent folder in my work Outlook to gather data for this visualization. I searched the Sent folder only because I rarely write <i>thank you</i> or its variations in an email that I start. And I limited the scope to one month only because of the number of the emails I had to search in (approximately 300). I found that I have three main ways of expressing gratitude in my email responses: <i>thanks</i>, <i>thank you</i>, and—my special one—<i>many thanks</i>.
+I looked at emails from the past month (May 2018) in the Sent folder in my work Outlook to gather data for this visualization. I searched the Sent folder only because I rarely write <i>thank you</i> or its variations in an email that I start. And I limited the scope to one month only because of the number of the emails I had to search in (approximately 300). 
+
+### Findings
+
+I found that I have three main ways of expressing gratitude in my email responses: <i>thanks</i>, <i>thank you</i>, and—my special one—<i>many thanks</i>. Only in one email had I used <i>my thanks</i>. Another finding was that out of the 300-odd emails, I had used one of the three expressions in 99 emails. No expression had been used more than once in any email. 
+
+However, I did not distribute my expressions of gratitude equally across recipients or even within emails. I was more thankful to my superiors (mostly because I was responding to feedback rather than providing information, as would be the case with peers). And I tended to open or end an email with an expression of gratitude, rather than use an expression in the body of the email. 
+
 
 {% include plot2.html %}
