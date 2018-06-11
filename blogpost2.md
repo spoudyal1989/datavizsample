@@ -28,6 +28,6 @@ The topmost bar chart shows how many times I used each of the three expressions 
 
 {% include plot2.html %}
 
-### Room for Improvement
+### Design Decisions and Room for Improvement
 
-I would 
+I chose bar charts, because they provided a clean and clear way of presenting the data, even at complex levels. I also decided in favor of horizontal bar charts because they took up less space while presenting the same level of information. Because each bar chart was presenting about different values, I decided to change the colors 
