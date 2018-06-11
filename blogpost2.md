@@ -20,5 +20,11 @@ I found that I have three main ways of expressing gratitude in my email response
 
 However, I did not distribute my expressions of gratitude equally across recipients or even within emails. I was more thankful to my superiors (mostly because I was responding to feedback rather than providing information, as would be the case with peers). And I tended to open or end an email with an expression of gratitude, rather than use an expression in the body of the email. 
 
+The findings are presented in the visualization below.
+
+### All the Thank-Yous in All My Emails
 
 {% include plot2.html %}
+
+### Room for Improvement
+
