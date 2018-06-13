@@ -35,3 +35,5 @@ The topmost bar chart shows how many times I used each of the three expressions 
 I chose bar charts, because they provided a clean and clear way of presenting the data, even at complex levels. I also decided in favor of horizontal bar charts because they took up less space while presenting the same level of information. Because each bar chart was presenting about different values, I decided to use the same color but different saturation levels. I also made the hue lighter from top to bottom to provide an easier transition to a user. I decided to make the second chart a pie chart because only two values were being compared, so a simple presentation seemed to work well in that case. 
 
 As noted above, I thanked my superiors almost 35 percent more than I did my peers. I would like to reflect the proportional difference in my charts so that I have a more granular visualization of these expressions.
+
+<<Back to [homepage](https://spoudyal1989.github.io/datavizsample)
