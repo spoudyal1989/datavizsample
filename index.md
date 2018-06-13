@@ -6,4 +6,4 @@
 
 # [Water Leaks in NYC Residential Buildings](./blogpost1.md)
 
-<i>Created June 2, 2018.</i> In New York City, complaints of water leaks in residential buildings made to 311 are routed to the Department of Housing Preservation and Development. If a pattern of these complaints exists—and can be demonstrated—the department can use the knowledge to direct resources to resolve the issue efficiently and effectively.
+<i>Updated June 13, 2018. Created June 2, 2018.</i> In New York City, complaints of water leaks in residential buildings made to 311 are routed to the Department of Housing Preservation and Development. If a pattern of these complaints exists—and can be demonstrated—the department can use the knowledge to direct resources to resolve the issue efficiently and effectively.
