@@ -1,5 +1,7 @@
 ## This blog is a collection of projects designed for a summer course in data visualization at the CUNY Graduate Center.
 
+# [Portfolio](./blogpost3.md) 
+
 # [How I <strike>Say</strike> Write 'Thank You'](./blogpost2.md)
 
 <i>Created June 10, 2018.</i> How do I express gratitude in my email responses? Which expressions do I use, how frequently do I use each expression, do I place the expressions in one place in my email more than in others, and do I use these expressions more for certain people?
