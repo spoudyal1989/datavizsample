@@ -14,7 +14,12 @@ The visualization shows four independent variables and one dependent variable. T
 I found that democracies with plurality/majority electoral systems or mixed electoral have more families in national politics than those with proportional representation system. This variable amplifies the effect of other variables as well.
 
 ### How to Read This Visualization
+
+The visualization shows five maps, all of them interactive. By hovering the mouse over any color-filled country on any map, a user can learn about five distinct features of the country. Even without using the interactive tools, a user can tell which countries share which features and whether those countries are physically proximate.
+
 {% include plot3.html %}
+
 ### Why Things Look the Way They Do
+
 ### How I Can Improve
 <<Back to [homepage](https://spoudyal1989.github.io/datavizsample)
