@@ -1,7 +1,7 @@
 ## This blog is a collection of projects designed for a summer course in data visualization at the CUNY Graduate Center.
 
 # [Dynasties in Democracies](./blogpost3.md) 
-Democracy is ideally the strongest defense against entrenchment of families in positions of power. That appears not to be the case in reality. In the last four decades alone, members of successive generations have been heads of governments or of states in forty-eight democracies. What gives?
+<i>Created June 17, 2018.</i> Democracy is ideally the strongest defense against entrenchment of families in positions of power. That appears not to be the case in reality. In the last four decades alone, members of successive generations have been heads of governments or of states in forty-eight democracies. What gives?
 
 # [How I <strike>Say</strike> Write 'Thank You'](./blogpost2.md)
 
