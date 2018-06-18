@@ -9,11 +9,11 @@ The graph below shows 311 service requests (complaints) for “water-leaks” in
 
 {% include plot1.html %}
 
-#### How to use the interactive tool
+#### How to Use the Interactive Tool
 
 Totals for each month can be viewed by hovering the mouse over the line for the desired borough. A user can type a complaint description in the search box under the Descriptor tab to view the frequency of other complaints. More than one complaint can be selected. The user may also view the number of other complaints for the same time period and areas by clicking on the Descriptor dropdown menu and selecting either to include or to exclude the selected value(s). Similarly, the user may click on the legend for any borough to highlight or exclude the results of said borough.
 
-#### Design decisions and room for improvement
+#### Design Decisions and Room for Improvement
 
 I wanted to create a visualization that captured the pattern of the number of records created and the month in which the records were created, and to look at those patterns separately for each borough. I also explored the option of using a bar chart to visualize the information. However, the bar chart did not clearly convey the month-to-month different in number of records created within and across boroughs. The line graph provides the benefit of borough-by-borough comparison, which was my primary interest. It also shows the pattern for a given borough. To add a numerical perspective, I also inserted the highest and lowest numbers of records for each borough. 
 
