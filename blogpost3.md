@@ -8,7 +8,9 @@ Democracies of all kinds feature political dynasties, and no one factor is a dec
 
 ### Data and Findings
 This research uses the list of countries that Freedom House identifies as being democracies in its annual reports. Of the countries surveyed for the last twenty-eight years by the Freedom House, I consider as a democracy only those countries that have been categorized as democracies—partly or fully—for at least fourteen of the past twenty-eight years.  
+
 The visualization shows four independent variables and one dependent variable. The first, <i>electoral system</i>, is divided into three categories: proportional representational system, plurality/majority, and mixed. These categories are based on the electoral system family developed by the International Institute for Democracy and Electoral Assistance. <i>System of government</i> is divided into three broad categories: parliamentary democracy/parliamentary constitutional monarchy, parliamentary republic/federal parliamentary republic, and presidential republic/semipresidential republic. The visualization also shows whether or not a country is a <i>monarchy</i> and whether it gained <i>independence before or after 1945</i>. Monarchy was chosen because it is generally posited that in countries with monarchies, other political families are generally not prominent. The independence variable is meant to check whether a colonial past has any effect on a country’s tolerance for dynastic elites in national politics.
+
 I found that democracies with plurality/majority electoral systems or mixed electoral have more families in national politics than those with proportional representation system. This variable amplifies the effect of other variables as well.
 
 ### How to Read This Visualization
