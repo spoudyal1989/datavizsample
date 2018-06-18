@@ -21,6 +21,8 @@ The visualization shows five maps, all of them interactive. By hovering the mous
 
 ### Why Things Look the Way They Do
 
+I decided that a map would be appropriate for this visualization because only a map would show the level of information without appearing too busy. Because there are five maps, each with its own legends, I decided to use one color scheme for the “master” map and one scheme for the four on the bottom so that the visualization wouldn’t appear cluttered. I considered whether using the same color scheme for four adjacent maps would confuse the user and decided that it wouldn’t because I would insert the legend for each map right on top of it. One other reason I inserted the legend on top of each map was that when a user selects one country in any of the five maps, only the legend for the applicable value is retained; a user can therefore get information from five maps by simply hovering the mouse over any one map.
+
 ### How I Can Improve
 
 I would like to be able to manage the filter such that when a country is clicked on on one map, only that country is zoomed in on other four maps. If I were to reiterate this visualization—and given it is possible—I would create a heat map that would change according to the significance of the value of a variable associated with a country. 
