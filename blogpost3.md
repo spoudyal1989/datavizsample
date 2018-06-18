@@ -22,4 +22,7 @@ The visualization shows five maps, all of them interactive. By hovering the mous
 ### Why Things Look the Way They Do
 
 ### How I Can Improve
+
+I would like to be able to manage the filter such that when a country is clicked on on one map, only that country is zoomed in on other four maps. If I were to reiterate this visualization—and given it is possible—I would create a heat map that would change according to the significance of the value of a variable associated with a country. 
+
 <<Back to [homepage](https://spoudyal1989.github.io/datavizsample)
