@@ -17,7 +17,7 @@ The visualization shows four independent variables and one dependent variable. T
 
 The visualization shows five maps, all of them interactive. By hovering the mouse over any color-filled country on any map, a user can learn about five distinct features of the country. Even without using the interactive tools, a user can tell which countries share which features and whether those countries are physically proximate.
 
-<b>For a better visual experience, [please click here](https://public.tableau.com/profile/sumit.poudyal#!/vizhome/Portfolio_43/OriginalDashboard)</b>
+<b>For a better visual experience, [please click here](https://public.tableau.com/profile/sumit.poudyal#!/vizhome/Portfolio_43/OriginalDashboard).</b>
 
 {% include plot3.html %}
 
