@@ -7,8 +7,8 @@ I am interested, in particular, in political dynasties in democracies. Among the
 
 What explains the entrenchment of dynasties in democracies? When voters elect to national office the child of a previously elected officeholder, name recognition and incumbency advantage certainly advantage the dynastic victor. But are there factors inherent to a country’s electoral or governmental systems, or deriving from its history, that explain why democracies have political families in national politics? I will show with my visualization that there are.
 
-### Why People Might Be Interested in This Question
-Democracies of all kinds feature political dynasties, and no one factor is a decisive indicator of whether a country has a legacy of political dynasties or whether it might in the future. This research aims to contribute to the exceedingly wide and deep area of inquiry into political families that persist in democracies. Anyone interested in comparative politics might find this research useful.
+### Why You, Dear Reader, Might Like This
+If you are interested in comparative politics, you might find this visualization useful. Democracies all over the world have political dynasties, democracies that share but also differ in characteristics: the part of the world are they located in, the systems of government they have, and their colonial histories. These and other characteristics work decisively either individually or in combination with one another. By examining a set of characteristics, I hope that I will contribute to the exceedingly wide and deep area of inquiry into political families that persist in democracies.
 
 ### What I Studied and Found
 This research uses the list of countries that Freedom House identifies as being democracies in its annual reports. Of the countries surveyed for the last twenty-eight years by the Freedom House, I consider as a democracy only those countries that have been categorized as democracies—partly or fully—for at least fourteen of the past twenty-eight years.  
