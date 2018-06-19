@@ -13,19 +13,18 @@ If you are interested in comparative politics, you might find this visualization
 ### What I Studied and Found
 Let’s begin by defining a few things for the purpose of this visualization. A <b>political dynasty</b> is created when an elected officeholder’s child subsequently holds an elected office. <b>Democracy</b> is measured using different measures. This visualization relies on Freedom House’s annual <i>[Freedom in the World](https://freedomhouse.org/report-types/freedom-world)</i> reports to identify democracies. I have considered as democracies countries that Freedom House has categorized as democracies—partly or fully—for at least fourteen of the past twenty-eight years (Freedom House started publishing its annual reports in 1980, twenty-eight years ago). I have made an exception for countries that until recently had nonrepresentational governments, such as Tunisia. 
 
-I studied one dependent variable (DV) and four independent variables (IVs): 
+I studied one dependent variable and four independent variables: 
 
 <b>Dynastic legacy since 1980</b> (dependent).
 
-<b>Electoral system</b> (independent).
+<b>Electoral system</b> (independent). This variable is divided into three categories: proportional representational system, plurality/majority, and mixed. These categories are based on the electoral system family developed by the International Institute for Democracy and Electoral Assistance.
 
-<b>System of government</b> (independent).
+<b>System of government</b> (independent). This variable is divided into three broad categories: parliamentary democracy/parliamentary constitutional monarchy, parliamentary republic/federal parliamentary republic, and presidential republic/semipresidential republic.
 
-<b>Monarchy status</b> (independent).
+<b>Monarchy status</b> (independent). This variable is divided into two categories: whether a country has monarchy or not. I chose this variable because it is generally posited that in countries with monarchies, other political families are not prominent.
 
-<b>Year of independence</b> (independent).
+<b>Year of independence</b> (independent). This variable is also categorical and notes whether a country became independent before or after 1945. With this variable, I meant to check whether a colonial past has any effect on a country’s tolerance for dynastic elites in national politics.
 
-The first, <i>electoral system</i>, is divided into three categories: proportional representational system, plurality/majority, and mixed. These categories are based on the electoral system family developed by the International Institute for Democracy and Electoral Assistance. <i>System of government</i> is divided into three broad categories: parliamentary democracy/parliamentary constitutional monarchy, parliamentary republic/federal parliamentary republic, and presidential republic/semipresidential republic. The visualization also shows whether or not a country is a <i>monarchy</i> and whether it gained <i>independence before or after 1945</i>. Monarchy was chosen because it is generally posited that in countries with monarchies, other political families are generally not prominent. The independence variable is meant to check whether a colonial past has any effect on a country’s tolerance for dynastic elites in national politics.
 
 <b>I found that democracies with plurality/majority electoral systems or mixed electoral have more families in national politics than those with proportional representation system. This variable amplifies the effect of other variables as well.</b>
 
