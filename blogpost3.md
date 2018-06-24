@@ -15,7 +15,7 @@ Let’s begin by defining a few things for the purpose of this visualization. A 
 
 I studied one dependent variable and four independent variables: 
 
-<b>Dynastic legacy since 1980</b> (dependent).
+<b>Dynastic legacy since 1980</b> (dependent). This is a categorical variable, which registers a value of 1 if a country has seen generational succession since 1980 and value of 0 if it hasn't. A dynastic legacy is considered to be in place if the child of a head of state or head of government also becomes a head of state or head of government. For example, the United States has a dynastic legacy because George H.W. Bush was the president from 1989 to 1993 and his son George W. Bush was the president from 2001 to 2008. Similarly, Canada (with Pierre Trudeau as prime minister from 1980 to 1984 and son Justin Trudeau as prime minister since 2015) has dynastic legacy.
 
 <b>Electoral system</b> (independent). This variable is divided into three categories: proportional representational system, plurality/majority, and mixed. These categories are based on the electoral system family developed by the International Institute for Democracy and Electoral Assistance.
 
