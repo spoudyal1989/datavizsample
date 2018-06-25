@@ -1,6 +1,11 @@
 ## This blog is a collection of projects designed for a summer course in data visualization at the CUNY Graduate Center.
 
+# [Visualizing Political Dynasties in Democracies](./blogpost4.md)
+
+<i>Created June 25, 2018.</i> I discuss the research background for my visualization of dyansties in democracies, the design decisions I made, the limitations of presenting such research in a visual format, and possible iterations of the visualization.
+
 # [Dynasties in Democracies](./blogpost3.md) 
+
 <i>Updated June 24, 2018. Created June 17, 2018.</i> Democracy is ideally the strongest defense against entrenchment of families in positions of power. That appears not to be the case in reality. In the last four decades alone, members of successive generations have been heads of governments or of states in forty-eight democracies. What gives?
 
 # [How I <strike>Say</strike> Write 'Thank You'](./blogpost2.md)
